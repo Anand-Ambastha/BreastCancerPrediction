@@ -85,13 +85,17 @@ Anand Ambastha
 ---
 ## 🧰 How to Run
 
-```bash
+
 # Clone the repository
+```bash
 git clone https://github.com/Anand-Ambastha/BreastCancerPrediction.git
 cd BreastCancerPrediction
+```
 
 # Install dependencies
+```bash
 pip install -r requirements.txt
+```
 
 # Run the notebook
 # Open the 'Breast_Cancer__Classification.ipynb' file using Jupyter Notebook or Google Colab
