@@ -81,7 +81,7 @@ These metrics were derived using `classification_report` from `sklearn.metrics` 
 
 ---
 ## 🧠 Author
-Anand Ambastha
+-Anand Ambastha
 ---
 ## 🧰 How to Run
 
